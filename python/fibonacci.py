@@ -10,3 +10,4 @@ while(i<=n):
     b=c
     print(c)
     i+=1
+print('hello')
